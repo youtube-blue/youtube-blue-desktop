@@ -1,7 +1,7 @@
 # YouTube  Blue Desktop (BETA)
 
 **YouTube Blue** is a tweaked open-source youtube client with ad-blocking, a pretty theme, picture in picture mode, video downloading and so many fancy fuctions :)
-
+*Disclaimer: Only works with Windows*
 
 # Theme
 
@@ -38,7 +38,7 @@ Go to your YouTube Blue folder using "**cd yt/blue/folder/path**" and type "**np
 Open up a terminal, use "**cd yt/blue/folder/path**", and type "**npm start**".
 
 
-# Mobile version 
+# Mobile version
 
 The mobile ([Flutter-based](https://flutter.dev)) version of YouTube Blue is currently in development. If you wanna help me in the development process -> click here.
 
