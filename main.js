@@ -8,16 +8,30 @@ if (process.platform === "win32"){
   app.setUserTasks([
     {
       //program: __dirname + "/download/wait.bat",
+<<<<<<< Updated upstream
       program: "node",
       arguments: __dirname + '/download/download.js',
+=======
+      //program: "node",
+      program: __dirname + "/download/download.bat",
+      //arguments: __dirname + '/download/download.js',
+      arguments: __dirname,
+>>>>>>> Stashed changes
       iconPath: __dirname + '/icons/ytblue.ico',
       iconIndex: 0,
       title: 'Download current video',
       description: 'This button downloads the video you are currently watching'
     },
     {
+<<<<<<< Updated upstream
       program: "node",
       arguments: __dirname + '/pip/piprequest.js',
+=======
+      //program: "node",
+      program: __dirname + '/pip/piprequest.bat',
+      //arguments: __dirname + '/pip/piprequest.js',
+      arguments: "",
+>>>>>>> Stashed changes
       iconPath: __dirname + '/icons/ytblue.ico',
       iconIndex: 0,
       title: 'Request Picture in Picture (PiP) mode',
@@ -33,10 +47,19 @@ app.whenReady().then(() => {
   })
   async function pipCheck() {
     while (true){
+<<<<<<< Updated upstream
       find('name', 'node', true).then(function (list) {
         var i;
         for (i = 0; i < list.length; i++) {
           if (list[i].cmd.includes('piprequest.js')){
+=======
+      find('name', 'cmd', true).then(function (list) {
+      //find('name', 'node', true).then(function (list) {
+        var i;
+        for (i = 0; i < list.length; i++) {
+          //if (list[i].cmd.includes('piprequest.js')){
+          if (list[i].cmd.includes('piprequest.bat')){
+>>>>>>> Stashed changes
             win.webContents.executeJavaScript("document.getElementsByClassName('video-stream html5-main-video')[0].requestPictureInPicture()")
           }
         }
