@@ -1,0 +1,2 @@
+let mainVideo = document.getElementsByClassName('video-stream html5-main-video');
+mainVideo[0].requestPictureInPicture()

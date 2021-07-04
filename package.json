@@ -1,0 +1,24 @@
+{
+  "name": "youtube-blue",
+  "version": "1.0.0",
+  "description": "YouTube Blue is a tweaked open-source youtube client with ad-blocking, a pretty theme, picture in picture mode, video downloading and so many fancy fuctions :)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "yt"
+  ],
+  "author": "PiciAkk",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^13.0.1"
+  },
+  "dependencies": {
+    "custom-electron-titlebar": "^3.2.7",
+    "electron-unhandled": "^3.0.2",
+    "electron-util": "^0.16.0",
+    "find-process": "^1.4.4",
+    "ytdl-core": "^4.8.2"
+  }
+}
