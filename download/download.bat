@@ -1,5 +1,5 @@
 setlocal
-ECHO off
+@ECHO off
 cd /d %1
 set dateTime=%DATE%-%TIME%
 set dateTime=%dateTime:/=-%
