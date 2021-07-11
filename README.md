@@ -1,6 +1,6 @@
 # YouTube  Blue Desktop (BETA)
 
-**YouTube Blue** is a tweaked open-source youtube client with ad-blocking, a pretty theme, picture in picture mode, video downloading and so many fancy fuctions :)
+**YouTube Blue** is a tweaked open-source YouTube client with ad-blocking, a pretty theme, picture in picture mode, video downloading and so many fancy fuctions :)
 *Disclaimer: Only works with Windows*
 
 # Theme
