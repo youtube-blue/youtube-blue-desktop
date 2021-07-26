@@ -9,6 +9,7 @@
 ![repoSize](https://img.shields.io/github/repo-size/youtube-blue/youtube-blue-desktop?color=%23219fca)
 ![downloadsCounter](https://img.shields.io/github/downloads/youtube-blue/youtube-blue-desktop/total?color=%23219fca)
 ![codeLineCounter](https://tokei.rs/b1/github/youtube-blue/youtube-blue-desktop?category=code)
+![issueCounter](https://img.shields.io/github/issues-raw/youtube-blue/youtube-blue-desktop?color=%23219fca)
 
 # Theme
 
