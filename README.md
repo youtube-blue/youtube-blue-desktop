@@ -2,7 +2,10 @@
 
 **YouTube Blue** is a tweaked open-source YouTube client with ad-blocking, a pretty theme, picture in picture mode, video downloading and so many fancy fuctions :)
 *Disclaimer: Only works with Windows*
-
+![license](https://img.shields.io/github/license/youtube-blue/youtube-blue-desktop?color=%23219fca)
+![repoSize](https://img.shields.io/github/repo-size/youtube-blue/youtube-blue-desktop?color=%23219fca)
+![downloadsCounter](https://img.shields.io/github/downloads/youtube-blue/youtube-blue-desktop/total?color=%23219fca)
+![codeLineCounter](https://tokei.rs/b1/github/youtube-blue/youtube-blue-desktop?category=code)
 # Theme
 
 The theme of YouTube Blue is really fancy, and really blue *(Note: the theme can be buggy, if you dont use youtube dark mode)*. This was created by [TheLegendOfWolf_](https://userstyles.org/users/956934 "The UserStyles profile of TheLegendOfWolf_") and its available for free [here]("https://userstyles.org/styles/195233/blue-youtube-by-thelegendofwolf-3683) *(Note: the CSS doesn't exactly match because i edited it to be compatible outside a userscript manager)*.
