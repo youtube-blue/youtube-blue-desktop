@@ -10,6 +10,10 @@
 ![downloadsCounter](https://img.shields.io/github/downloads/youtube-blue/youtube-blue-desktop/total?color=%23219fca)
 ![codeLineCounter](https://tokei.rs/b1/github/youtube-blue/youtube-blue-desktop?category=code)
 ![issueCounter](https://img.shields.io/github/issues-raw/youtube-blue/youtube-blue-desktop?color=%23219fca)
+![releaseDate](https://img.shields.io/github/release-date/youtube-blue/youtube-blue-desktop?color=%23219fca)
+![commitsSinceLastVersion](https://img.shields.io/github/commits-since/youtube-blue/youtube-blue-desktop/latest?color=%23219fca)
+![lastCommit](https://img.shields.io/github/last-commit/youtube-blue/youtube-blue-desktop?color=%23219fca)
+![contributors](https://img.shields.io/github/contributors/youtube-blue/youtube-blue-desktop?color=%23219fca)
 
 # Theme
 
