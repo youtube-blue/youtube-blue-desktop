@@ -18,6 +18,5 @@
     "electron-unhandled": "^3.0.2",
     "electron-util": "^0.16.0",
     "find-process": "^1.4.4",
-    "ytdl-core": "^4.8.2"
   }
 }
