@@ -17,7 +17,7 @@
 
 # Theme
 
-The theme of YouTube Blue is really fancy, and really blue *(Note: the theme can be buggy, if you dont use youtube dark mode)*. This was created by [TheLegendOfWolf_](https://userstyles.org/users/956934 "The UserStyles profile of TheLegendOfWolf_") and its available for free [here]("https://userstyles.org/styles/195233/blue-youtube-by-thelegendofwolf-3683) *(Note: the CSS doesn't exactly match because I edited it to be compatible outside a userscript manager)*.
+The theme of YouTube Blue is really fancy, and really blue *(Note: the theme can be buggy, if you don't use youtube dark mode)*. This was created by [TheLegendOfWolf_](https://userstyles.org/users/956934 "The UserStyles profile of TheLegendOfWolf_") and it's available for free [here]("https://userstyles.org/styles/195233/blue-youtube-by-thelegendofwolf-3683) *(Note: the CSS doesn't exactly match because I edited it to be compatible outside a userscript manager)*.
 
 # Ad-Blocking
 
@@ -25,9 +25,7 @@ YouTube Blue's adblocker works like magic. Thanks for the [idea](https://dev.to/
 
 # Picture in Picture (PiP) mode
 
-Picture in Picture (PiP) mode is just awesome (but its buggy sometimes :D). It combines the [`HTMLVideoElement.requestPictureInPicture()`](https://developer.mozilla.org/en-US/docs/Web/API/HTMLVideoElement/requestPictureInPicture) function with [process-finding](https://www.npmjs.com/package/find-process) and Electron usertasks. You can enter Picture in Picture mode by right-clicking the taskbar icon of YouTube Blue, then clicking "Request Picture in Picture (PiP) mode".
-
-
+Picture in Picture (PiP) mode is just awesome (but it's buggy sometimes :D). It combines the [`HTMLVideoElement.requestPictureInPicture()`](https://developer.mozilla.org/en-US/docs/Web/API/HTMLVideoElement/requestPictureInPicture) function with [process-finding](https://www.npmjs.com/package/find-process) and Electron usertasks. You can enter Picture in Picture mode by right-clicking the taskbar icon of YouTube Blue, then clicking "Request Picture in Picture (PiP) mode".
 
 # Video Downloading
 
