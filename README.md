@@ -17,7 +17,7 @@
 
 # Theme
 
-The theme of YouTube Blue is really fancy, and really blue *(Note: the theme can be buggy, if you don't use youtube dark mode)*. This was created by [TheLegendOfWolf_](https://userstyles.org/users/956934 "The UserStyles profile of TheLegendOfWolf_") and it's available for free [here]("https://userstyles.org/styles/195233/blue-youtube-by-thelegendofwolf-3683) *(Note: the CSS doesn't exactly match because I edited it to be compatible outside a userscript manager)*.
+The theme of YouTube Blue is really fancy, and really blue *(Note: the theme can be buggy, if you don't use youtube dark mode)*. This was created by [TheLegendOfWolf_](https://userstyles.org/users/956934 "The UserStyles profile of TheLegendOfWolf_") and it's available for free [here](https://userstyles.org/styles/195233/blue-youtube-by-thelegendofwolf-3683) *(Note: the CSS doesn't exactly match because I edited it to be compatible outside a userscript manager)*.
 
 # Ad-Blocking
 
