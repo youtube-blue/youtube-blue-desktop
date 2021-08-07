@@ -1,7 +1,8 @@
 {
-  "name": "youtube-blue",
+  "name": "youtube-blue-desktop",
   "version": "1.2.0",
   "description": "YouTube Blue is a tweaked open-source YouTube client with ad-blocking, a pretty theme, picture in picture mode, video downloading and so many fancy fuctions :)",
+  "repository": "https://github.com/youtube-blue/youtube-blue-desktop",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
